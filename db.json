@@ -1,13 +1,13 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "customers": [
+    { "id": 1, "name": "John", "email": "john@pet.com" },
+    { "id": 2, "name": "Jack", "email": "jack@hey.com" },
+    { "id": 3, "name": "Peter", "email": "Peter@toto.com" }
   ],
-  "comments": [
-    { "id": 1, "body": "heeeey", "postId": 1 },
-    { "id": 2, "body": "hiiiii", "postId": 2 },
-    { "id": 3, "body": "hello", "postId": 3 }
+  "transactions": [
+    { "amount": 1300, "currency": "UDS", "id": 1 },
+    { "amount": 25, "currency": "USD", "id": 2 },
+    { "amount": 356, "currency": "CAD", "id": 5 }
   ],
   "profile": {
     "name": "typicode"
