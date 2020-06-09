@@ -1,8 +1,9 @@
 {
   "customers": [
-    { "id": 1, "name": "John", "email": "john@pet.com" },
-    { "id": 2, "name": "Jack", "email": "jack@hey.com" },
-    { "id": 3, "name": "Peter", "email": "Peter@toto.com" }
+    { "id": 1, "name": "John", "email": "john@hid.com", "stage": "approved" },
+    { "id": 2, "name": "Jack", "email": "jack@hey.com", "stage": "documents recieved" },
+    { "id": 3, "name": "Peter", "email": "Peter@toto.com", "stage": "approved" },
+    { "id": 4, "name": "Mark", "email": "mark@mane.com", "stage": "to be approved" }
   ],
   "transactions": [
     { "amount": 1300, "currency": "UDS", "id": 1 },
