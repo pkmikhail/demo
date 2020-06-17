@@ -9,11 +9,11 @@
     { "userid": "980p-2yu8-4jpm", "name": "Nahal", "email": "nahal@mane.co", "companydomain": "mane.co", "phonenumber": "+124364576", "stage": "to be approved" }
   ],
   "transactions": [
-    { "userid": "4e45-4afg-242a", "amount": 1300, "currency": "UDS", "date": "2020-06-12T16:39:00 },
-    { "userid": "4e45-4afg-242a", "amount": 365, "currency": "CAD", "date": "2020-05-26T22:05:00 },
-    { "userid": "437q-3e46-qer8", "amount": 25, "currency": "USD", "date": "2020-06-16T16:15:00 },
-    { "userid": "1za1-4e46-qe41", "amount": 3799, "currency": "USD", "date": "2020-06-15T18:35:00 },
-    { "userid": "980p-2yu8-4jpm", "amount": 356, "currency": "CAD"  "date": "2020-06-16T18:55:00 }
+    { "userid": "4e45-4afg-242a", "amount": "1300", "currency": "UDS", "date": "2020-06-12T16:39:00" },
+    { "userid": "4e45-4afg-242a", "amount": "365", "currency": "CAD", "date": "2020-05-26T22:05:00" },
+    { "userid": "437q-3e46-qer8", "amount": "25", "currency": "USD", "date": "2020-06-16T16:15:00" },
+    { "userid": "1za1-4e46-qe41", "amount": "3799", "currency": "USD", "date": "2020-06-15T18:35:00" },
+    { "userid": "980p-2yu8-4jpm", "amount": "356", "currency": "CAD"  "date": "2020-06-16T18:55:00" }
   ],
   "profile": {
     "name": "typicode"
