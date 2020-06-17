@@ -1,7 +1,7 @@
 {
   "customers": [
-    { "id": "123f-9ad2-1g85", "name": "John", "email": "john@hid.com", "companydomain": "hid.com", "phonenumber": "+189634502", "stage": "approved" },
-    { "id": "e343-asf0-998f", "name": "Jack", "email": "jack@hey.io", "companydomain": "hey.io", "phonenumber": "+15774502", "stage": "documents recieved" },
+    { "id": "123-962-885", "name": "John", "email": "john@hid.com", "companydomain": "hid.com", "phonenumber": "+189634502", "stage": "approved" },
+    { "id": "343-678-998", "name": "Jack", "email": "jack@hey.io", "companydomain": "hey.io", "phonenumber": "+15774502", "stage": "documents recieved" },
     { "id": "4e45-4afg-242a", "name": "Peter", "email": "peter@toto.com", "companydomain": "hid.com", "phonenumber": "+189276602", "stage": "approved" },
     { "id": "437q-3e46-qer8", "name": "Frederick", "email": "frederick@toto.com", "companydomain": "toto.com", "phonenumber": "+13598787", "stage": "approved" },
     { "id": "1za1-4e46-qe41", "name": "Michael", "email": "michael@toto.com", "companydomain": "toto.com", "phonenumber": "+18232577", "stage": "documents recieved" },
