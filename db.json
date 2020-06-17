@@ -1,17 +1,19 @@
 {
   "customers": [
-    { "id": "123-962-8l5", "name": "John", "email": "john@hid.com", "companydomain": "hid.com", "phonenumber": "+189634502", "stage": "approved" },
-    { "id": "379-678-9986", "name": "Jack", "email": "jack@hey.io", "companydomain": "hey.io", "phonenumber": "+15774502", "stage": "documents recieved" },
-    { "id": "4e45-4afg-242a", "name": "Peter", "email": "peter@toto.com", "companydomain": "hid.com", "phonenumber": "+189276602", "stage": "approved" },
-    { "id": "437q-3e46-qer8", "name": "Frederick", "email": "frederick@toto.com", "companydomain": "toto.com", "phonenumber": "+13598787", "stage": "approved" },
-    { "id": "1za1-4e46-qe41", "name": "Michael", "email": "michael@toto.com", "companydomain": "toto.com", "phonenumber": "+18232577", "stage": "documents recieved" },
-    { "id": "242g-53y7-262t", "name": "Stan", "email": "stan@stemd.com", "companydomain": "stemd.com", "phonenumber": "+125785443", "stage": "to be approved" },
-    { "id": "980p-2yu8-4jpm", "name": "Nahal", "email": "nahal@mane.co", "companydomain": "mane.co", "phonenumber": "+124364576", "stage": "to be approved" }
+    { "userid": "123-962-8l5", "name": "John", "email": "john@hid.com", "companydomain": "hid.com", "phonenumber": "+189634502", "stage": "approved" },
+    { "userid": "379-678-9986", "name": "Jack", "email": "jack@hey.io", "companydomain": "hey.io", "phonenumber": "+15774502", "stage": "documents recieved" },
+    { "userid": "4e45-4afg-242a", "name": "Peter", "email": "peter@toto.com", "companydomain": "hid.com", "phonenumber": "+189276602", "stage": "approved" },
+    { "userid": "437q-3e46-qer8", "name": "Frederick", "email": "frederick@toto.com", "companydomain": "toto.com", "phonenumber": "+13598787", "stage": "approved" },
+    { "userid": "1za1-4e46-qe41", "name": "Michael", "email": "michael@toto.com", "companydomain": "toto.com", "phonenumber": "+18232577", "stage": "documents recieved" },
+    { "userid": "242g-53y7-262t", "name": "Stan", "email": "stan@stemd.com", "companydomain": "stemd.com", "phonenumber": "+125785443", "stage": "to be approved" },
+    { "userid": "980p-2yu8-4jpm", "name": "Nahal", "email": "nahal@mane.co", "companydomain": "mane.co", "phonenumber": "+124364576", "stage": "to be approved" }
   ],
   "transactions": [
-    { "amount": 1300, "currency": "UDS", "id": 1 },
-    { "amount": 25, "currency": "USD", "id": 2 },
-    { "amount": 356, "currency": "CAD", "id": 5 }
+    { "userid": "4e45-4afg-242a", "amount": 1300, "currency": "UDS", "date": "2020-06-12T16:39:00 },
+    { "userid": "4e45-4afg-242a", "amount": 365, "currency": "CAD", "date": "2020-05-26T22:05:00 },
+    { "userid": "437q-3e46-qer8", "amount": 25, "currency": "USD", "date": "2020-06-16T16:15:00 },
+    { "userid": "1za1-4e46-qe41", "amount": 3799, "currency": "USD", "date": "2020-06-15T18:35:00 },
+    { "userid": "980p-2yu8-4jpm", "amount": 356, "currency": "CAD"  "date": "2020-06-16T18:55:00 }
   ],
   "profile": {
     "name": "typicode"
