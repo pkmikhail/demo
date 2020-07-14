@@ -14,8 +14,5 @@
     { "userid": "437q-3e46-qer8", "amount": "25", "currency": "USD", "date": "2020-06-16" },
     { "userid": "242g-53y7-262t", "amount": "255", "currency": "USD", "date": "2020-06-17" },
     { "userid": "1za1-4e46-qe41", "amount": "3799", "currency": "USD", "date": "2020-06-15" }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
